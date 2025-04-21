@@ -5,7 +5,7 @@ import TransactionList from "./components/TransactionList";
 import Summary from "./components/Summary";
 import CategoryChart from "./components/CategoryChart";
 
-const API_URL = "https://nodejs-server-silk.vercel.app/api/transactions"; // Adjust if your backend runs on a different port
+const API_URL = "https://nodejs-server-n42masq3m-farhans-projects-541bb7ad.vercel.app/api/transactions"; // Adjust if your backend runs on a different port
 
 function App() {
   const [transactions, setTransactions] = useState([]);
